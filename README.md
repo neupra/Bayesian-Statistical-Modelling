@@ -209,7 +209,7 @@ The hierarchical structure demonstrates clear shrinkage behavior based on group 
 
 1. **Clone or Download the Repository:**
    ```bash
-   git clone https://github.com/your-username/bayesian-hierarchical-models.git
+   git clone 
    cd bayesian-hierarchical-models
    ```
 
